@@ -82,7 +82,7 @@
 - It could because full-speed printing is too fast for your object. So try to lower the print speed. 
 - It could because the object geometry is not 3D-Printing-friendly, try to adjust your model's structure or orientation to avoid the certain print head movement that made your printing failed. 
 
-###What software should I use to design 3D objects? 
+### What software should I use to design 3D objects? 
 There are two mainstream options:
 
 1. Solidworks 
