@@ -9,7 +9,7 @@
 	
 2. [Download](https://ultimaker.com/software/ultimaker-cura) and install **Ultimaker Cura** on your computer if you haven't. 
 
-3. Download and import [Anycubic Default Setting Profile](https://github.com/MarkHershey/3DPrinting-F02/blob/master/Anycubic%20Default.curaprofile) if you haven't. For beginners, please follow the default settings. 
+3. Download and import [Anycubic Default Setting Profile](AnycubicSettingProfile/Anycubic-Default.curaprofile) if you haven't. For beginners, please follow the default settings. 
 
 4. Generate `.gcode` file from **Ultimaker Cura**, and note down your *estimated print duration*.
 >Note: The estimated print duration shown by the software is usually accurate, you just need to add 15-30 mins time buffer when you book the printer. <img src="pics/cura-ss.png" width="800">
@@ -45,9 +45,9 @@
 	>4. Input you *Estimated Material Usage* in grams into descriptions. (Optional)
 	>4. Save
 	
-	><img src="pics/2.png" width="150">
-	><img src="pics/3.png" width="150">
-	><img src="pics/4.png" width="150">
+	><img src="pics/2.jpg" width="150">
+	><img src="pics/3.jpg" width="150">
+	><img src="pics/4.jpg" width="150">
 	
 
 
