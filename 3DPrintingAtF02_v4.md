@@ -12,7 +12,7 @@
 3. Download and import [Anycubic Default Setting Profile](https://github.com/MarkHershey/3DPrinting-F02/blob/master/Anycubic%20Default.curaprofile) if you haven't. For beginners, please follow the default settings. 
 
 4. Generate `.gcode` file from **Ultimaker Cura**, and note down your *estimated print duration*.
->Note: The estimated print duration shown by the software is usually accurate, you just need to add 15-30 mins time buffer when you book the printer. <img src="https://lh3.googleusercontent.com/LqRXiEiopVYKD3pc5je-pp5WQ6na89wRs3WFQ4KYngudTJfGMjRVUE4Q9zKeF5oU7Zv5T5Em85WdCStE9Su6V2blrCwpt6O2rUt98ORt5RT_R4Qz0WG_CcJOWJMYUA5g28j6UUyXIjP_2rr1cKox1nfMUl0IamRdNY4SRrzCmK-iIOM-QKyyEzhEXXW_CPYDdW3seSxOMV5QGu2pI3kF11_Gs3VFSy0A1EvzVxn5yJ1JtW1sDnHjJml2NNr1Sd7dcrCfE81tBgUlDP7h0rk9gGI7cQNrl5ME7ppJduDGtb1NlmVe11_v_SQB8cw3SYKmu9k8nZP4dENLz0vl6A3LSwiiEOewM2Q94648-1j92HY4g3jXHvm6S2b_7TXJF45Nl44rawE06grW9STfSnY1VtZbWVjJlI8Gf7aBVPiJlCSzcMUb40dge6kgffDboGBseCEMbeOG83r4_X6-KzZwZYPhbZBfq4pDZ6W_hcHrLNIn4uiVkphD9RVibypK0doNBiWeWFkvkjNkpfvKp07K4sOj08TYCx2vUqn7rb_SDxCMT4ZVSim8teaPhzS2G5ewXjo2ElblseLshEJ15wXZ35yv-oLhcvpSO1RLHQcIyoLqBLAZDCuJqVUME8KvsGO51-4gvkY2ymPMN9WqfwfhbA-BKlm8mIbmKBA8GjsA_-wb0h1CYafkZw=w2094-h1396-no" width="800">
+>Note: The estimated print duration shown by the software is usually accurate, you just need to add 15-30 mins time buffer when you book the printer. <img src="pics/cura-ss.png" width="800">
  
 5. Book your printing slot by simply adding an event on the Shared Google Calendar "**3D Printing @F02**", but you need to follow a certain event naming convention. 
 	
@@ -33,7 +33,7 @@
 	
 	>#### Web Example: 
 	
-	><img src="https://lh3.googleusercontent.com/vzAzUxzSLmpJ-XaiOwU_Pf5muOAthaYqTPMfCFOhaUQZ9ikk312CCnDa9ygP09I1gK7dTzlRP_ixA3_8VKSXeRPtdglyaP1EwmrSI7aXgcHSKTJ2PpkjAIb0E9blc8-cjqNBbdr_x8jZQfUukE45zXpfOgl8cYfUGOGWig-qBKVFo-cYHzUbM2BwzxI4w-_FlYbGV6RCJGr_FSS5yAg1yrTGDy5faiy1tI8GN3Kt4ZXyfM1IFkFkmHsu6lVEFoMwbEd-NMzRpiNSZx2z7vqdpCZd5YjQ3-czDlFpQLMgX0VZT0Q28wmd_XdB9rIUlgf-ZsKEyePi9zyeF22Opu05tdrRKss7P0jd7XY2uXAvZktVHYAIerQ1SalgBHle3CHtGF5zhEhIXUStAYzb4nAU265wVImX26TyiDbGxeH7KWbkl_dMOFL36mLiHrbt3nzWmFIjipGpWWkpn8nSXdICAXPS2CVaW0Y7i3_GblMX2uiDkql6VcONsMBErChzQgRlYOdSiusfd-baPzvuKaBGmTzlIE08kErlcVVwStrNp8ukxnJCFWIMUKv_geYe3yJ5uoUrOk9rXMYTU4PSUqXfCZgAcFB7-ahA_1qF2vbOuDGXibenxmEjcAObpyoZR4JHPtwtu8Wo-_y4UHxrefjIsYpZANAu1TwkwDUNMQPKkSVXNcWwQTMi_A=w611-h454-no" width="400">
+	><img src="pics/1.png" width="400">
 	
 	> *You can do this on your phone using Google Calendar App as well.*
 	> 
@@ -45,9 +45,9 @@
 	>4. Input you *Estimated Material Usage* in grams into descriptions. (Optional)
 	>4. Save
 	
-	><img src="https://lh3.googleusercontent.com/2SUAOdxjGtYXmkss-KnQK8iYv403VlKC1gcjvgGKK25fvD8iOZ4IY920jw8POqhXeSWaBZ7II_pM86JMSxg1jvWa-c7SU-g4lWSvJhB7J0WOajkJRL1PD7m_3kU92jqsxxXztAkaeUH-tWKzHl-JfVXDj2JbxeD-eiGVpP3_s8s1i8Hov2hxIUlwEN5l9m1Kf9rGyr7WzoqyOhxEZRCFHLEst7swFsHzmQu4TCNJNV-rgD79M74amuk9cJeXoTqhBii_31FC7-P1gsFBFU5q-NZlEzO9A7A0phrEytIRy5OnwOFyyE-zOuxt1ic_jfRtBg7VAAEeHeKGI3TAxyHFhQ3PeArqJI02StjzgNutwXUrlKdyNp2Ah9FOsf7Ju9MoGJckJtIIz5RWb3jeW5pE09Lz9l9IAoKouxKNjAC9XS6fMF6_8X8Eq-wKBdIY9bRerxFKYJ_ima2Tgnkj3ljPsslVJtjzXC_InHsKD_dM35YO_BcASBS_QT-NUXR21iuQ4lseQF1rcVPcKm_W439-wLUHcJegOe79i80R44lCVgZxEOMVbD0nL_pM9UbWIK7-Jc9sRW_s-YF8dQ-DDuoyMycQYSplzNFf3xbKMrlCaw5esjIVfSZ9mD3k8hv_5NKzbJS_TUzRg2XUWFYCClKonl2Eo99lDDmaRFMykisLfC-NhtyAampQWw=w720-h1280-no" width="150">
-	><img src="https://lh3.googleusercontent.com/6YinIfhMwYTQkzTQCHh6zrxoypnSWqYxtmPS5AzQ6C84FbglJCacGX2YEU9-yLul5xC7uszenocMyFi3zbtisuaabgYsX0GRcOKc65_2r4ziL3IHsCKPALTsciL437t7dNL3n1vCj0OVYf_u8RDW7BIChhfa_abxTUjfldSrbw4Rm1QQib4Na45yqTPg1PgRkzs6E6sOKz1mJb44ScZIFimoE3dW7QLYfuMkiZKExDi6r-2encutn1ymg7bFQjOSPCOcMtjlyKRmEilmDLlYAkh48a2QzyPxSqGddbNdGWjGrhrFyMGBl7gEYDBghGFvoP7RCsE6kWap1Ffa4xPtN4kAbX3sxy0cZLuiIg9Ne3LSu5UUX3JugYUJASndFGpwGgFG8g0Kn--oIaLFv5ZcNKS9mYC5saE7mmW9YFXOuZILOE9Caskhas-3e2l-q8C60NmWibhzRGxapP3zVKi5G3vp78mz3Q2eI2UGSIWfruLdQQKi1uqAKTsPoJgYMMLu8ziEWTN6g9OX3a4IdmX3Gg91clne48TyUJWjbZVvFrQ7AWgEL-8VXAu7M03Vl0zxo9UaoVFzWPBWBofO6-9q4s2cmnjM8V1TvZDOGiXuuhNQcRZbrj0b9l-RNh73KaaxTaA8FQRO9Ju3-p1ccX6TS_d0FKQFEuB0Y1p-BTDpN9cqN42LaNsuQw=w720-h1280-no" width="150">
-	><img src="https://lh3.googleusercontent.com/HrfwN1YJvXo5TFj664lHYsuwvK6Gau9LD2wGfc9JKfs1qC3SYri0-Z1rpoR57oDpT6EAgqGp3goys7mgL9UyuhJsjSXRQW9sUNPup9uPVjjQK6HHTOQdy0p6r7Pmy_lRwHiv11gttB3Dodq41JdNNzXOY7dbMmJNtsGcE6nDqfcs76IUo1BebkIBj0qTi5pgocE977FcFyCuB41vAVvWbgKVogi3z_dSzzCDh_TodDmmESVW61jEqvYgOPfs8UwJw7KfQHBWXeZri0MzDRbjES5fL922jSV5Gge3UUd0-Cxa4ZRW6jj8VeeiLJuu6WhwFhtj_MR8HLPMGiKV4QBkaS0vlc3wQQM-ZAcir1EnFTJgWqrufH3Swk1ix8hQkjcpD3re9AZRfjaFK-2wdLLKv8V04U8z1pKZj0ljdyLFJjd5PY0rCRwAcIVBH2HaJ630-h1oi6FG2Gx6XvnxXFSKONFjtu1edyh1tN6ay7lvPwBkIFwQxzH4Jv6aXUdUVoYnj04yoywbslUrlKB8s6fJSpcb9xWsOxbeH0eyJLmx8lX9qgB8zM1VbPpyrGSpxhlk2RraomyNNoUaa84vBsi1JLLut-RzgOwfvyu5vJiBmeilzrVtCQlgLhup1P9srnyqcanYvJvDcQflp7j6KMSYQ9ufCZ7vgKt6PbgUFgfhTwPnF1wsTUK2yQ=w720-h1280-no" width="150">
+	><img src="pics/2.png" width="150">
+	><img src="pics/3.png" width="150">
+	><img src="pics/4.png" width="150">
 	
 
 
